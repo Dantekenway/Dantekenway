@@ -9,11 +9,10 @@
  <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://github.com/Dantekenway">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dantekenway&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantekenway&layout=compact&langs_count=7&theme=jolly"/>
-</div>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Dantekenway&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantekenway&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
