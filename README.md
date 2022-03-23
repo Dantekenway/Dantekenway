@@ -1,6 +1,6 @@
 ### <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João victor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dantekenway&color=yellow" alt="Profile views" /> </p>
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Dantekenway/a9bf326e533b93685338fbd531fa378a/raw/3dcbed663d892e0077900f715b7655f5605c309b/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Dantekenway/a9bf326e533b93685338fbd531fa378a/raw/ae5eeb8b0444555f2b74753422c198468825fa85/githubcard.svg"/>
   
  - 🔥 Junior Web Developer & focused on helping people 
  
@@ -10,6 +10,7 @@
 
 - 😄 Pronouns: he/him.
  
+ - 💬 Ask me about JavaScript, HTML, CSS
  
  
  
