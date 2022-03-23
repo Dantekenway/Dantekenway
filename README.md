@@ -12,7 +12,12 @@
  
  - 💬 Ask me about JavaScript, HTML, CSS
  
- 
+ ## 🧑🏻 &nbsp;Social Links
+
+  <div>
+  <a href = "mailto:contatojoaovictordefranca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-fran%C3%A7a-freitas-4a6aa9231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
  
  
  
@@ -40,9 +45,4 @@
 </p>
 <br><br>
 
-## 🧑🏻 &nbsp;Social Links
 
-  <div>
-  <a href = "mailto:contatojoaovictordefranca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-fran%C3%A7a-freitas-4a6aa9231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
