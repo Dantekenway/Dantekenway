@@ -3,9 +3,18 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Dantekenway/a9bf326e533b93685338fbd531fa378a/raw/3dcbed663d892e0077900f715b7655f5605c309b/githubcard.svg"/>
   
  - 🔥 Junior Web Developer & focused on helping people 
+ 
 - 🔭 I’m currently working as a freelancer.
+
 - 🌱 Studying Systems Analysis and Development at UPM.
+
 - 😄 Pronouns: he/him.
+ 
+ 
+ 
+ 
+ 
+ 
  <br><br>
 
 
@@ -17,6 +26,7 @@
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
+
 <br><br>
 
 
