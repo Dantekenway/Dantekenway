@@ -13,7 +13,7 @@
  
  - 💬 Ask me about JavaScript, HTML, CSS
  
- ## 🧑🏻👨‍🚀 &nbsp;Social Links
+ ## 👨‍🚀 &nbsp;Social Links
 
   <div>
   <a href = "mailto:contatojoaovictordefranca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
